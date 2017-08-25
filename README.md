@@ -42,14 +42,14 @@ Choosing Hyperparameters:
 ## Results
 
 **LeToR Dataset**
-  1. Using **Closed form Solution**, we achieve an **RMSE of 0.569938986664** on Test Set. Best model has 30 RBF Kernels and λ = 0.01
+  1. Using **Closed form Solution**, we achieve an **RMSE of 0.57** on Test Set. Best model has 30 RBF Kernels and λ = 0.01
 
-  2. Using **SGD Solution**, we achieve an **RMSE of 0.637591911743** on Test Set. Best model has 11 RBF Kernels and λ = 0.01
+  2. Using **SGD Solution**, we achieve an **RMSE of 0.64** on Test Set. Best model has 11 RBF Kernels and λ = 0.01
   
 **Synthetic Dataset**
-  1. Using **Closed form Solution**, we achieve an **RMSE of 0.703795980591** on Test Set. Best model has 8 RBF Kernels and λ = 0.1
+  1. Using **Closed form Solution**, we achieve an **RMSE of 0.70** on Test Set. Best model has 8 RBF Kernels and λ = 0.1
 
-  2. Using **SGD Solution**, we achieve an **RMSE of 0.789271504073** on Test Set. Best model has 5 RBF Kernels and λ = 0.1
+  2. Using **SGD Solution**, we achieve an **RMSE of 0.79** on Test Set. Best model has 5 RBF Kernels and λ = 0.1
 
 
 ## Conclusions
